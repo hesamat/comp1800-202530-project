@@ -59,7 +59,7 @@ elmo-hikes/
 
 
 ## Contributors
-- Hesam - BCIT CST Instructor with a passion for outdoor adventures and user-friendly applications.
+- Name - BCIT CST Instructor with a passion for outdoor adventures and user-friendly applications.
 - **Teammate Name** - BCIT CST Student, Frontend enthusiast with a knack for creative design. Fun fact: Has a collection of over 50 houseplants.
 
 ---
